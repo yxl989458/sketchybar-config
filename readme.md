@@ -11,11 +11,8 @@
 
 ## Install
 
-### Using script
 
-```sh
-curl -fsSL https://raw.githubusercontent.com/Efterklang/sketchybar/main/install.sh | sh -s
-```
+
 
 ### Manual
 
@@ -31,7 +28,7 @@ brew install --cask font-sketchybar-app-font font-maple-mono-nf-cn
 git clone --depth 1 --quiet https://github.com/FelixKratz/SbarLua.git /tmp/sbarlua
 cd /tmp/sbarlua && make install
 # install config
-git clone --depth 1 https://github.com/Efterklang/sketchybar ~/.config/sketchybar
+git clone --depth 1 https://github.com/yxl989458/sketchybar-config.git ~/.config/sketchybar
 ```
 
 ---
